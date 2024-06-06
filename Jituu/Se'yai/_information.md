@@ -4,7 +4,9 @@
 3. [Climate Zones](./ClimateZones.md)
 4. [Tectonics](./Tectonics.md)
 5. [Population](./Geology.md)
-6. [Moon](./Moon.md)
+6. [Cities](./Cities/_information.md)
+7. [Towns](./Towns/_information.md)
+8. [Moon](./Moon.md)
 
 ## Planet Information
 

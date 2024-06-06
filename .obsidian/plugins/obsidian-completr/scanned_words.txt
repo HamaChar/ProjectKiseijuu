@@ -801,6 +801,8 @@ Team
 Tilt
 Tropics
 Temperature
+Tectonics
+Towns
 Hurricane
 How
 Herbal
@@ -901,6 +903,7 @@ CO
 Circulation
 Cells
 ClimateZones
+Cities
 Magic
 Medicine
 Maker

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
       "basename": "_information",
       "path": "Jituu/Se'yai/_information.md"
+    },
+    {
+      "basename": "_information",
+      "path": "Jituu/Se'yai/Towns/_information.md"
+    },
+    {
+      "basename": "_information",
+      "path": "Jituu/Se'yai/Cities/_information.md"
     },
     {
       "basename": "ClimateZones",
@@ -15,10 +27,6 @@
     {
       "basename": "_information",
       "path": "Jituu/_information.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Map",
