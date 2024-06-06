@@ -7,6 +7,7 @@ value
 volatile
 vulnerability
 very
+vapor
 on
 other
 others
@@ -92,6 +93,7 @@ created
 called
 conditions
 cold
+characteristics
 for
 feel
 fiction
@@ -124,6 +126,7 @@ formed
 far
 first
 flora
+foreign
 the
 to
 things
@@ -184,6 +187,9 @@ be
 being
 bit
 but
+blue
+brings
+bacteria
 ideas
 identify
 impact
@@ -237,6 +243,8 @@ role
 rate
 resilience
 rich
+rogue
+reaches
 al
 abdaal
 also
@@ -291,6 +299,7 @@ adapting
 argues
 away
 against
+associated
 mahoney
 make
 medicinal
@@ -321,6 +330,7 @@ manage
 meaning
 md
 makes
+made
 pewdiepie
 people
 plugin
@@ -364,6 +374,8 @@ passion
 philosophy
 planets
 peach
+passing
+parasitic
 why
 want
 what
@@ -483,6 +495,9 @@ spin
 slow
 summer
 second
+spins
+some
+species
 kinds
 kanban
 know
@@ -532,6 +547,10 @@ environments
 embrace
 explains
 emanates
+ex
+eccentrically
+every
+evolved
 Ideal
 Implications
 II
@@ -684,6 +703,7 @@ lies
 lone
 lightyears
 look
+large
 Beans
 Book
 Bushcraft
@@ -720,6 +740,7 @@ Blauw
 Boldly
 Bren
 Burkeman
+Because
 The
 Tidying
 This
@@ -1050,6 +1071,8 @@ grit
 glow
 giant
 gold
+gas
+geysers
 Nutrition
 Natural
 New
