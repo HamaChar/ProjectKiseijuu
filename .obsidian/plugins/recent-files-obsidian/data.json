@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "_information",
+      "path": "Jituu/_information.md"
+    },
+    {
+      "basename": "Map",
+      "path": "Jituu/Se'yai/Map.md"
+    },
+    {
+      "basename": "Population",
+      "path": "Jituu/Se'yai/Population.md"
+    },
+    {
+      "basename": "Climate Zones",
+      "path": "Jituu/Se'yai/Climate Zones.md"
+    },
+    {
+      "basename": "Tectonics",
+      "path": "Jituu/Se'yai/Tectonics.md"
+    },
+    {
+      "basename": "Moon",
+      "path": "Jituu/Se'yai/Moon.md"
+    },
+    {
       "basename": "_information",
       "path": "Jituu/Se'yai/_information.md"
     },
@@ -9,16 +37,8 @@
       "path": "Jituu/Se'yai/Geology.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
       "basename": "Pe'tai",
       "path": "Jituu/Pe'tai.md"
-    },
-    {
-      "basename": "_information",
-      "path": "Jituu/_information.md"
     },
     {
       "basename": "PlanetarySystem",

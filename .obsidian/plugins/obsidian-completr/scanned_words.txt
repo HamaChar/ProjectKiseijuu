@@ -94,6 +94,8 @@ called
 conditions
 cold
 characteristics
+cm
+cell
 for
 feel
 fiction
@@ -300,6 +302,7 @@ argues
 away
 against
 associated
+atm
 mahoney
 make
 medicinal
@@ -376,6 +379,8 @@ planets
 peach
 passing
 parasitic
+partial
+pressures
 why
 want
 what
@@ -504,6 +509,7 @@ know
 knife
 keeping
 key
+kg
 enjoy
 earth
 effectively
@@ -565,6 +571,8 @@ Improbable
 Imperfections
 Is
 In
+Information
+Inclination
 Weekly
 Wars
 Worwood
@@ -640,6 +648,12 @@ Pasas
 Planetary
 PlanetarySystem
 Pe
+Planet
+Polar
+Period
+Perihelion
+Prograde
+Pressure
 Analysis
 Art
 Aromatherapy
@@ -679,6 +693,14 @@ Advantage
 Antidote
 Age
 Alherste
+Axial
+Albedo
+Axis
+AU
+Aphelion
+Atmospheric
+Argon
+Ar
 list
 link
 longevity
@@ -741,6 +763,7 @@ Boldly
 Bren
 Burkeman
 Because
+Bond
 The
 Tidying
 This
@@ -775,6 +798,9 @@ Tolle
 Timeless
 Turning
 Team
+Tilt
+Tropics
+Temperature
 Hurricane
 How
 Herbal
@@ -823,6 +849,7 @@ Lynas
 Learning
 Lifelong
 Luxor
+Label
 Changing
 Clean
 Complete
@@ -867,6 +894,12 @@ Continuous
 Carol
 Curve
 Charles
+Core
+Circles
+Carbon
+CO
+Circulation
+Cells
 Magic
 Medicine
 Maker
@@ -917,6 +950,10 @@ Management
 Marie
 Merlin
 Mindset
+Mass
+Masses
+Mean
+Major
 Up
 Ultimate
 Understand
@@ -978,6 +1015,8 @@ Daring
 Duhigg
 Duckworth
 Digital
+Density
+Dioxide
 Organizing
 Oils
 Omnivore
@@ -989,6 +1028,8 @@ Our
 Outsmart
 Obstacle
 Oliver
+Orbital
+Oxgyen
 Everything
 Essential
 Earthwise
@@ -1023,6 +1064,10 @@ Epstein
 Enlightenment
 Eckhart
 Embrace
+Escape
+EscVelocity
+Effect
+Eccentricity
 down
 doesn
 diet
@@ -1085,6 +1130,7 @@ Nonviolent
 Nassim
 Nicholas
 Now
+Nitrogen
 Remedies
 Rosemary
 Richo
@@ -1114,6 +1160,10 @@ Reducing
 Rachel
 Range
 Ryan
+Radius
+Radii
+Retrograde
+Rotation
 Green
 Good
 Guide
@@ -1141,9 +1191,13 @@ Grit
 GitHub
 Galaxy
 Geology
+Gravity
+Greenhouse
 Valerie
 Values
 Vulnerable
+Value
+Velocity
 use
 using
 uses
@@ -1197,6 +1251,7 @@ From
 Fast
 Fungi
 Futures
+Fraction
 Scientifically
 Study
 Startling
@@ -1265,6 +1320,8 @@ Stoic
 System
 Seyai
 Se
+Surface
+Semi
 need
 navigate
 needs

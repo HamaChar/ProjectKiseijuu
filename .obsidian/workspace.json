@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jituu/Se'yai/_information.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jituu/Se'yai/_information.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jituu/Se'yai/_information.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jituu/Se'yai/_information.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -179,13 +179,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a1da00af3fbafebe",
+  "active": "f4c4f74dc537cdef",
   "lastOpenFiles": [
-    "Jituu/Se'yai/Geology.md",
+    "Jituu/_information.md",
+    "Jituu/Se'yai/Map.md",
+    "Jituu/Se'yai/Population.md",
+    "Jituu/Se'yai/Towns",
+    "Jituu/Se'yai/Cities",
+    "Jituu/Se'yai/Climate Zones.md",
+    "Jituu/Se'yai/Tectonics.md",
+    "Jituu/Se'yai/Moon.md",
     "Jituu/Se'yai/_information.md",
+    "Jituu/Se'yai/Geology.md",
     "Homepage.md",
     "Jituu/Pe'tai.md",
-    "Jituu/_information.md",
     "Jituu/PlanetarySystem.md",
     "Jituu/Se'yai",
     "README.md",

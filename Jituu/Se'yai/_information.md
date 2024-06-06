@@ -1,4 +1,7 @@
 # Se'yai
+1. [Geology](./Geology.md)
+
+## Planet Information
 
 | Label                         | Value                         |
 | ----------------------------- | ----------------------------- |
