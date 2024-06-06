@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Pe'tai",
+      "path": "Jituu/Pe'tai.md"
+    },
+    {
       "basename": "PlanetarySystem",
       "path": "Jituu/PlanetarySystem.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "information",
+      "path": "Jituu/Se'yai/information.md"
+    },
+    {
+      "basename": "Geology",
+      "path": "Jituu/Se'yai/Geology.md"
     },
     {
       "basename": "README",

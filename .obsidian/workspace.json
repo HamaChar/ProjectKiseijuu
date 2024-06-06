@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "d5918b13360d7ddf",
+            "id": "a1da00af3fbafebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jituu/PlanetarySystem.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jituu/PlanetarySystem.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jituu/PlanetarySystem.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jituu/PlanetarySystem.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -179,10 +179,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d5918b13360d7ddf",
+  "active": "a1da00af3fbafebe",
   "lastOpenFiles": [
+    "Jituu/Pe'tai.md",
     "Homepage.md",
     "Jituu/PlanetarySystem.md",
+    "Jituu/Se'yai/information.md",
+    "Jituu/Se'yai/Geology.md",
+    "Jituu/Se'yai",
     "README.md",
     "Jituu/Planetary_System.md",
     "Jituu/Planetary.md",

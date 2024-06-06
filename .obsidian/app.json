@@ -1,5 +1,7 @@
 {
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }

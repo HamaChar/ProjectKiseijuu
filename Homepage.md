@@ -1,3 +1,5 @@
-In a far-away Galaxy in the Universe of Alherste lies a lone star system that inhabits life within thousands of lightyears away.
+In a far-away Galaxy in the Universe of Alherste lies a lone star system that inhabits life within thousands of lightyears away. The star, Jituu, emanates a peach orange glow against the dark solemn space. The [Jituu Planetary System](Jituu/PlanetarySystem.md) houses two planets.
 
-The [Jituu Planetary System](Jituu/PlanetarySystem.md)
+The first planet is called [Se'yai](Jituu/Se'yai/information.md) by its inhabitants. It is a planet a bit smaller than Earth, with a giant supercontinent. The flora of Luxor gold against Jituu's peach hue makes its land look rich in its wheat, but the desolate conditions make living hard. Se'yai's spin is as slow as 48 Earth hours, making the hot summer days unbearable and the cold winter nights very desolate.
+
+The second planet is called [Pe'tai](Jituu/Pe'tai.md), a large blue gas giant made of vapor. This ex-rogue water planet spins eccentrically, passing by Se'yai every 38 Earth years. Because of the planet's geysers, some of its vapor reaches to Se'yai. This vapor brings foreign bacteria, which is an evolved species associated to the parasitic characteristics of the █████.
