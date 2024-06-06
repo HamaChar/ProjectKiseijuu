@@ -62,15 +62,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.09,
-      "characterCount": 183,
-      "nonWhitespaceCharacterCount": 156,
+      "characterCount": 181,
+      "nonWhitespaceCharacterCount": 154,
       "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717663779305,
-      "modifiedDate": 1717665305115,
-      "sizeInBytes": 183
+      "modifiedDate": 1717665393987,
+      "sizeInBytes": 181
     },
     "Jituu/Planetary System.md": {
       "isCountable": true,
