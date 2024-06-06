@@ -1,5 +1,10 @@
 # Se'yai
 1. [Geology](./Geology.md)
+2. [Map](./Map.md)
+3. [Climate Zones](./ClimateZones.md)
+4. [Tectonics](./Tectonics.md)
+5. [Population](./Geology.md)
+6. [Moon](./Moon.md)
 
 ## Planet Information
 
