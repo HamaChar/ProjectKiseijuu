@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "559f1c12c365441a",
+        "id": "6ba746796c211466",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab59faf3cc10a21",
+            "id": "603079ec5fb7a9cd",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "30b2348271c2645c",
+            "id": "f17022d0a8118c94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f4c4f74dc537cdef",
+  "active": "f17022d0a8118c94",
   "lastOpenFiles": [
-    "README.md",
+    "Jituu/Planetary System.md",
     "Homepage.md",
+    "Jituu/Planetary.md",
+    "Jituu.md",
+    "Jituu",
+    "README.md",
     "2024-06-06.md"
   ]
 }

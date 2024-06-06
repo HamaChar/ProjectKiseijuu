@@ -116,6 +116,7 @@ fascinating
 fungi
 field
 formed
+far
 the
 to
 things
@@ -147,6 +148,7 @@ technologies
 through
 this
 turning
+thousands
 better
 basic
 by
@@ -198,6 +200,7 @@ impacts
 interconnectedness
 impactful
 imperfection
+inhabits
 riifushi
 roses
 remedies
@@ -272,6 +275,7 @@ any
 argument
 adapting
 argues
+away
 mahoney
 make
 medicinal
@@ -363,6 +367,7 @@ way
 walking
 waste
 winning
+within
 happy
 herbs
 how
@@ -442,6 +447,8 @@ shows
 sparked
 swan
 success
+star
+system
 kinds
 kanban
 know
@@ -503,6 +510,7 @@ Impact
 Improbable
 Imperfections
 Is
+In
 Weekly
 Wars
 Worwood
@@ -575,6 +583,7 @@ ProjectKiseijuu
 Project
 Parasyte
 Pasas
+Planetary
 Analysis
 Art
 Aromatherapy
@@ -613,6 +622,7 @@ Adversity
 Advantage
 Antidote
 Age
+Alherste
 list
 link
 longevity
@@ -633,6 +643,9 @@ listen
 learn
 life
 lore
+lies
+lone
+lightyears
 Beans
 Book
 Bushcraft
@@ -851,6 +864,7 @@ Understood
 Us
 Unnatural
 Ultralearning
+Universe
 Japanese
 James
 John
@@ -863,6 +877,7 @@ Jr
 Jen
 Joy
 Johnson
+Jituu
 Decluttering
 Die
 Discover
@@ -1057,6 +1072,7 @@ Generalists
 Greatly
 Grit
 GitHub
+Galaxy
 Valerie
 Values
 Vulnerable
@@ -1176,6 +1192,7 @@ Scott
 Specialized
 Spiritual
 Stoic
+System
 need
 navigate
 needs
