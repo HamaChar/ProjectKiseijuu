@@ -30,6 +30,7 @@ often
 obstacles
 opportunities
 orange
+outside
 changing
 cru
 cssclasses
@@ -130,6 +131,7 @@ far
 first
 flora
 foreign
+fractures
 the
 to
 things
@@ -166,6 +168,7 @@ two
 than
 tai
 trogen
+torn
 better
 basic
 by
@@ -195,6 +198,7 @@ blue
 brings
 bacteria
 belts
+ball
 ideas
 identify
 impact
@@ -225,6 +229,7 @@ impactful
 imperfection
 inhabits
 inhabitants
+ice
 riifushi
 roses
 remedies
@@ -250,6 +255,9 @@ resilience
 rich
 rogue
 reaches
+reach
+rock
+rings
 al
 abdaal
 also
@@ -307,6 +315,7 @@ against
 associated
 atm
 asteroid
+apart
 mahoney
 make
 medicinal
@@ -512,6 +521,7 @@ spins
 some
 species
 sure
+spinning
 kinds
 kanban
 know
@@ -567,6 +577,7 @@ eccentrically
 every
 evolved
 elocity
+exoplanet
 Ideal
 Implications
 II
@@ -743,6 +754,7 @@ lightyears
 look
 large
 lives
+like
 Beans
 Book
 Bushcraft
@@ -1014,6 +1026,7 @@ Jen
 Joy
 Johnson
 Jituu
+Jupiter
 Decluttering
 Die
 Discover
@@ -1143,6 +1156,8 @@ decluttering
 dangers
 dark
 desolate
+debris
+disk
 guide
 groundbreaking
 get
@@ -1161,6 +1176,7 @@ giant
 gold
 gas
 geysers
+gigantic
 Nutrition
 Natural
 New
@@ -1375,6 +1391,7 @@ not
 negative
 new
 nights
+next
 Zombies
 Zen
 Zero
@@ -1388,4 +1405,5 @@ Young
 Quest
 Question
 joy
+just
 xide
