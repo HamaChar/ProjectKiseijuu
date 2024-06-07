@@ -224,15 +224,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5566666666666666,
-      "characterCount": 1131,
-      "nonWhitespaceCharacterCount": 962,
+      "characterCount": 1130,
+      "nonWhitespaceCharacterCount": 961,
       "readingTimeInMinutes": 0.630188679245283,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717663779305,
-      "modifiedDate": 1717761076923,
-      "sizeInBytes": 1147
+      "modifiedDate": 1717769118595,
+      "sizeInBytes": 1138
     },
     "Jituu/_information.md": {
       "isCountable": true,

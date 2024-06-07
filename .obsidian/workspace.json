@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jituu/Pe'tai/_information.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jituu/Pe'tai/_information.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jituu/Pe'tai/_information.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jituu/Pe'tai/_information.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f4c4f74dc537cdef",
+  "active": "ab7fe70d504a359d",
   "lastOpenFiles": [
-    "Jituu/PlanetarySystem.md",
     "Jituu/Pe'tai/_information.md",
+    "Jituu/PlanetarySystem.md",
     "Jituu/Se'yai/_information.md",
     "Jituu/_information.md",
     "Jituu/Pe'tai/V.md",
