@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🔵",
+      "🌞",
+      "☀",
+      "🌎"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -24,5 +29,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Jituu/Se'yai": "🌎",
+  "Jituu": "🌞",
+  "Jituu/Pe'tai": "🔵"
 }

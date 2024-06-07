@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba746796c211466",
+        "id": "b3bec2ca1974b19d",
         "type": "tabs",
         "children": [
           {
-            "id": "603079ec5fb7a9cd",
+            "id": "a1cb091bcdafc012",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "a1da00af3fbafebe",
+            "id": "ab7fe70d504a359d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Jituu/Pe'tai/_information.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Jituu/Pe'tai/_information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Jituu/Pe'tai/_information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Jituu/Pe'tai/_information.md"
               }
             }
           }
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,25 +179,31 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a1da00af3fbafebe",
+  "active": "ab7fe70d504a359d",
   "lastOpenFiles": [
+    "Jituu/PlanetarySystem.md",
+    "Jituu/Pe'tai/_information.md",
     "Jituu/Se'yai/_information.md",
+    "Jituu/_information.md",
+    "Jituu/Pe'tai/V████.md",
+    "Homepage.md",
+    "Jituu/Se'yai/Pasted image 20240607194651.png",
+    "Jituu/Untitled.md",
+    "_information.md",
+    "README.md",
+    "Jituu/Pe'tai",
+    "Jituu/Se'yai/ClimateZones.md",
+    "Untitled",
     "Jituu/Se'yai/Towns/_information.md",
     "Jituu/Se'yai/Cities/_information.md",
-    "Jituu/Se'yai/ClimateZones.md",
     "Jituu/Se'yai/Geology.md",
-    "Jituu/_information.md",
-    "Homepage.md",
     "Jituu/Se'yai/Map.md",
     "Jituu/Se'yai/Population.md",
     "Jituu/Se'yai/Towns",
     "Jituu/Se'yai/Cities",
     "Jituu/Se'yai/Tectonics.md",
     "Jituu/Se'yai/Moon.md",
-    "Jituu/Pe'tai.md",
-    "Jituu/PlanetarySystem.md",
     "Jituu/Se'yai",
-    "README.md",
     "Jituu/Planetary_System.md",
     "Jituu/Planetary.md",
     "Jituu/Planetary System.md",

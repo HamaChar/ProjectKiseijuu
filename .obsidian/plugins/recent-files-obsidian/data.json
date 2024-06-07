@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "_information",
+      "path": "Jituu/Pe'tai/_information.md"
+    },
+    {
+      "basename": "PlanetarySystem",
+      "path": "Jituu/PlanetarySystem.md"
     },
     {
       "basename": "_information",
       "path": "Jituu/Se'yai/_information.md"
+    },
+    {
+      "basename": "_information",
+      "path": "Jituu/_information.md"
+    },
+    {
+      "basename": "V████",
+      "path": "Jituu/Pe'tai/V████.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "ClimateZones",
+      "path": "Jituu/Se'yai/ClimateZones.md"
     },
     {
       "basename": "_information",
@@ -17,16 +41,8 @@
       "path": "Jituu/Se'yai/Cities/_information.md"
     },
     {
-      "basename": "ClimateZones",
-      "path": "Jituu/Se'yai/ClimateZones.md"
-    },
-    {
       "basename": "Geology",
       "path": "Jituu/Se'yai/Geology.md"
-    },
-    {
-      "basename": "_information",
-      "path": "Jituu/_information.md"
     },
     {
       "basename": "Map",
@@ -43,18 +59,6 @@
     {
       "basename": "Moon",
       "path": "Jituu/Se'yai/Moon.md"
-    },
-    {
-      "basename": "Pe'tai",
-      "path": "Jituu/Pe'tai.md"
-    },
-    {
-      "basename": "PlanetarySystem",
-      "path": "Jituu/PlanetarySystem.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

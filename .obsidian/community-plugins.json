@@ -1,7 +1,6 @@
 [
   "obsidian-banners",
   "obsidian-book-search-plugin",
-  "obsidian-completr",
   "dataview",
   "obsidian-dictionary-plugin",
   "emoji-shortcodes",
@@ -22,5 +21,6 @@
   "obsidian-statusbar-pomo",
   "obsidian-style-settings",
   "obsidian-plugin-toc",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "obsidian-completr"
 ]

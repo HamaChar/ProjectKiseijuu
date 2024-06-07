@@ -1,3 +1,5 @@
+[Back to Homepage](Homepage)
+[Jituu Planetary System](Jituu/PlanetarySystem.md)
 # Se'yai
 1. [Geology](./Geology.md)
 2. [Map](./Map.md)
@@ -18,7 +20,7 @@
 | Radius                        | 0.938 Earth Radii             |
 | Gravity                       | 0.909g                        |
 | Escape Velocity               | 0.923 Earth EscVelocity       |
-| Axial Tilt                    | Retrograde                    |
+| Axial Tilt                    | 146º (Retrograde)             |
 | Tropics                       | 0-34º N/S                     |
 | Polar Circles                 | 56-90º N/S                    |
 | Rotation Period               | 48 Earth hours                |
@@ -31,7 +33,7 @@
 | Aphelion                      | 0.649 AU                      |
 | Orbital Period                | 0.559 Earth years             |
 |                               | 204.195 Earth days            |
-| Inclination                   | 44º                           |
+| Inclination                   | 0º                            |
 |                               | Prograde                      |
 | Atmospheric Pressure          | 1.45 atm                      |
 | Oxgyen (O2)                   | 30.95%                        |

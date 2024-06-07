@@ -96,6 +96,7 @@ cold
 characteristics
 cm
 cell
+cells
 for
 feel
 fiction
@@ -164,6 +165,7 @@ thousands
 two
 than
 tai
+trogen
 better
 basic
 by
@@ -381,6 +383,10 @@ passing
 parasitic
 partial
 pressures
+pre
+parti
+part
+ppm
 why
 want
 what
@@ -503,6 +509,7 @@ second
 spins
 some
 species
+sure
 kinds
 kanban
 know
@@ -557,6 +564,7 @@ ex
 eccentrically
 every
 evolved
+elocity
 Ideal
 Implications
 II
@@ -654,6 +662,10 @@ Period
 Perihelion
 Prograde
 Pressure
+Peach
+Perihe
+Per
+Planets
 Analysis
 Art
 Aromatherapy
@@ -701,6 +713,8 @@ Aphelion
 Atmospheric
 Argon
 Ar
+Aphe
+Asteroid
 list
 link
 longevity
@@ -764,6 +778,8 @@ Bren
 Burkeman
 Because
 Bond
+Bon
+Belts
 The
 Tidying
 This
@@ -828,6 +844,12 @@ Hard
 Hawken
 Holiday
 Happiness
+Habitable
+Hydrogen
+Helium
+He
+HD
+Homepage
 Life
 Loss
 Long
@@ -852,6 +874,7 @@ Learning
 Lifelong
 Luxor
 Label
+Luminosity
 Changing
 Clean
 Complete
@@ -904,6 +927,10 @@ Circulation
 Cells
 ClimateZones
 Cities
+Class
+Current
+Color
+CH
 Magic
 Medicine
 Maker
@@ -960,6 +987,8 @@ Mean
 Major
 Map
 Moon
+Majo
+Methane
 Up
 Ultimate
 Understand
@@ -1023,6 +1052,8 @@ Duckworth
 Digital
 Density
 Dioxide
+Deuteride
+Disks
 Organizing
 Oils
 Omnivore
@@ -1074,6 +1105,8 @@ Escape
 EscVelocity
 Effect
 Eccentricity
+Ear
+Ecce
 down
 doesn
 diet
@@ -1328,6 +1361,8 @@ Seyai
 Se
 Surface
 Semi
+Sun
+Star
 need
 navigate
 needs
@@ -1339,6 +1374,7 @@ nights
 Zombies
 Zen
 Zero
+Zone
 Your
 You
 Younger
@@ -1348,3 +1384,4 @@ Young
 Quest
 Question
 joy
+xide
