@@ -14,4 +14,7 @@
 2. Jituu-N
 
 ### Jituu-M
-Located at 2.55 AU, right between Se'yai and Pe'tai lives
+Located at 2.55 AU, right between Se'yai and Pe'tai lies the fractures of an exoplanet torn apart by the gigantic blue ball next to it.
+
+### Jituu-N
+Located from 5.9 AU to 7.14 AU, just outside of Pe'tai's reach, is a debris disk of ice and rock, spinning around Jituu like the rings of Jupiter.

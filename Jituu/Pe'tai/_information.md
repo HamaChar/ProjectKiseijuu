@@ -1,7 +1,7 @@
 [Homepage](Homepage)
 [Jituu Planetary System](Jituu/PlanetarySystem.md)
 # Pe'tai
-1. [V████](./V████)
+1. [V████](V.md)
 ## Information
 
 | Label                         | Value                |
